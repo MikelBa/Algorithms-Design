@@ -1,4 +1,4 @@
 # Objetivo
-Se trata de mover un caballo dentro de un tablero de ajedrez <a href="https://www.codecogs.com/eqnedit.php?latex=$&space;n&space;\times&space;n&space;$" target="_blank"><img src="https://latex.codecogs.com/gif.latex?$&space;n&space;\times&space;n&space;$" title="$ n \times n $" /></a> de forma que partiendo de una posición inicial dada 
+Se trata de mover un caballo dentro de un tablero de ajedrez <a href="https://www.codecogs.com/eqnedit.php?latex=$$&space;n\times&space;n&space;$$" target="_blank"><img src="https://latex.codecogs.com/gif.latex?$$&space;n\times&space;n&space;$$" title="$$ n\times n $$" /></a> de forma que partiendo de una posición inicial dada 
 $\left( x_1, x_2 \right) $ y realizando solamente los movimientos permitidos al caballo en el juego del ajedrez, recorra exactamente una 
 sola vez todas las casillas del tablero. Se pide buscar todas las soluciones posibles partiendo de $\left( x_1, x_2 \right) $.
